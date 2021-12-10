@@ -6,104 +6,49 @@
 			"type": 1
 		},
 		{
-			"Timestamp": 120.0,
-			"Name": "Hourglass Sand Begins to Flow",
+			"Timestamp": 205.0,
+			"Name": "Eclipse Begins",
+			"type": 2
+		},
+		{
+			"Timestamp": 265.0,
+			"Name": "Eclipse Ends",
+			"type": 2
+		},
+		{
+			"Timestamp": 400.0,
+			"Name": "Expansion",
 			"type": 4
 		},
 		{
-			"Timestamp": 430.0,
-			"Name": "Sun Station Warp",
+			"Timestamp": 780.0,
+			"Name": "Critical Mass",
+			"type": 1
+		},
+		{
+			"Timestamp": 790.0,
+			"Name": "First Break",
 			"type": 2
 		},
 		{
-			"Timestamp": 470.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 480.0,
-			"Name": "Sun Station Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 530.0,
-			"Name": "Sun Station Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 580.0,
-			"Name": "Sun Station Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 620.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 630.0,
-			"Name": "Sun Station Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 660.0,
-			"Name": "Chert Becomes Nervous",
+			"Timestamp": 804.0,
+			"Name": "Second Break",
 			"type": 3
 		},
 		{
-			"Timestamp": 680.0,
-			"Name": "Sun Station Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 690.0,
-			"Name": "Sun Station Falls",
-			"type": 0
-		},
-		{
-			"Timestamp": 765.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 910.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 1020.0,
-			"Name": "Chert Panics",
-			"type": 3
-		},
-		{
-			"Timestamp": 1050.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 1200.0,
-			"Name": "Ash Twin Warp",
-			"type": 2
-		},
-		{
-			"Timestamp": 1220.0,
-			"Name": "Sand Stops Flowing",
+			"Timestamp": 824.0,
+			"Name": "Third Break",
 			"type": 4
 		},
 		{
-			"Timestamp": 1230.0,
-			"Name": "Chert Becomes Catatonic",
-			"type": 3
+			"Timestamp": 1215.0,
+			"Name": "TILT",
+			"type": 2
 		},
 		{
 			"Timestamp": 1235.0,
 			"Name": "Beginning of the End",
 			"type": 1
-		},
-		{
-			"Timestamp": 1290.0,
-			"Name": "Warp Platforms Inactive",
-			"type": 2
 		},
 		{
 			"Timestamp": 1320.0,
