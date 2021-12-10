@@ -1,4 +1,4 @@
-# OWClock
+# EotEClock
 
 This mod adds a clock overlay to Outer Wilds. It can be set to count up, or down to the sun exploding.
 Default events included in this version include events based upon DLC content.
